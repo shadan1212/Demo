@@ -1,0 +1,1 @@
+I am Shadan, exploring Artificial Intelligence. 
