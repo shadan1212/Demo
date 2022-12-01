@@ -1,1 +1,1 @@
-I am Shadan, exploring Artificial Intelligence. 
+I am Shadan(currently learning DSA), exploring Artificial Intelligence. 
